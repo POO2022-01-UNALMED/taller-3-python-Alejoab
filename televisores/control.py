@@ -1,6 +1,3 @@
-from tkinter import TkVersion
-
-
 class Control:
     def __init__(self):
         self._tv = None

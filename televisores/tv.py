@@ -1,6 +1,3 @@
-from email.errors import MalformedHeaderDefect
-
-
 class TV:
     numTV = 0
 
